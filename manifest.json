@@ -1,0 +1,12 @@
+{
+    "domain": "bgone",
+    "name": "bgone",
+    "documentation": "https://github.com/hernrup/homeassistant-bgone",
+    "issue_tracker": "https://github.com/Hernrup/homeassistant-bgone/issues",
+    "dependencies": [],
+    "codeowners": ["@hernrup"],
+    "requirements": [],
+    "iot_class": "local_push",
+    "version": "1.0.0",
+    "config_flow": true 
+}

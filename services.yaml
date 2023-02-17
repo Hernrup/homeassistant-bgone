@@ -1,0 +1,7 @@
+fire_event:
+  description: fires a event
+  fields:
+    data:
+      description: Instructions
+      example: 
+        var: 'val'
